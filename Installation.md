@@ -1,4 +1,4 @@
-# Federated Learning Runtime Environment Installation Guide
+# Federated Learning Installation Guide
 
 In our experiment, we have installed **NVFLARE**, the **NVIDIA Federated Learning Application Runtime Environment**. NVFLARE is an open-source, domain-agnostic, and extensible SDK designed for Federated Learning (FL). It provides a secure and privacy-preserving platform for distributed multi-party collaboration.
 
