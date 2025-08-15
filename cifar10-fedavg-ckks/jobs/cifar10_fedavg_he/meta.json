@@ -1,0 +1,25 @@
+{
+    "name": "cifar10_fedavg_he_alpha1.0",
+    "resource_spec": {},
+    "deploy_map": {
+        "cifar10_fedavg_he": [
+            "@ALL"
+        ]
+    },
+    "min_clients": 2,
+    "job_folder_name": "cifar10_fedavg_he",
+    "submitter_name": "admin@nvidia.com",
+    "submitter_org": "nvidia",
+    "submitter_role": "project_admin",
+    "job_id": "dab538dc-66eb-4e06-8145-e98dbd4e236d",
+    "submit_time": 1701920204.2722647,
+    "submit_time_iso": "2023-12-07T03:36:44.272265+00:00",
+    "start_time": "",
+    "duration": "N/A",
+    "status": "SUBMITTED",
+    "schedule_history": [
+        "2023-12-07 03:36:45: scheduled"
+    ],
+    "schedule_count": 1,
+    "last_schedule_time": 1701920205.1463163
+}
